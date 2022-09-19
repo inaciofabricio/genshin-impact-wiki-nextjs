@@ -14,3 +14,9 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.iconeLimpeza {
+  width:"25px!important"; 
+  height:"auto!important"; 
+  cursor: "pointer!important";
+}
